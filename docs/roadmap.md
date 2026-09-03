@@ -6,6 +6,7 @@ This checklist tracks the portfolio project from its initial scaffold to a produ
 
 - [x] Review CardioBot v1
 - [x] Define the v2 product direction
+- [x] Create and publish the public CardioBot v2 repository
 - [x] Choose React, TypeScript, Next.js, FastAPI, and Python
 - [x] Design clinician and admin interfaces
 - [x] Add light and dark themes
